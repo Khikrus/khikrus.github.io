@@ -1,2 +1,2 @@
 # khikrus.github.io
-[Компания UBER PARTNERS](https://khikrus.github.io/uber/)
+[Компания UBER PARTNERS](https://khikrus.github.io/Uber/)
