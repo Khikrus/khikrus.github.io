@@ -5,4 +5,4 @@
 
 [Отзывчивая форма авторизации](https://khikrus.github.io/Responsive-Animated-Login-Form-Using/)
 
-[Пример персонального портфолио](https://khikrus.github.io/personal-portfolio/)
+[Вариант персонального портфолио](https://khikrus.github.io/personal-portfolio/)
