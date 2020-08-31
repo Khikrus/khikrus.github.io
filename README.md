@@ -9,4 +9,4 @@
 
 [To-Do List App](https://github.com/Khikrus/To-Do-List-App)
 
-[Проект RunSmart(в процессе)](https://github.com/Khikrus/RunSmart-project)
+[Проект RunSmart (в процессе)](https://github.com/Khikrus/RunSmart-project)
